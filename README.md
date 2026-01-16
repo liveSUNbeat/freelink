@@ -1,1 +1,1 @@
-# ez-vpn
+# vpn-go
