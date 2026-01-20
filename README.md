@@ -1,1 +1,1 @@
-# vpn-go
+# link-free
